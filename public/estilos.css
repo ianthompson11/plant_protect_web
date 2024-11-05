@@ -1,0 +1,59 @@
+/* Estilos para el fondo y la fuente */
+body {
+    font-family: Arial, sans-serif;
+    background: url('sensores.jpg') no-repeat center center fixed;
+    background-size: cover;
+    background-color: #210e03;
+    color: #2596be;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+/* Estilo del encabezado */
+h1 {
+    text-align: center;
+    color: #ffcc00;
+    font-size: 2em;
+    margin-top: 20px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* Estilos de la tabla */
+table {
+    width: 70%;
+    max-width: 600px;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: rgba(0, 0, 0, 0.6); /* Fondo translúcido para la tabla */
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+th, td {
+    padding: 15px;
+    text-align: center;
+    font-size: 1.2em;
+    color: #ffffff;
+}
+
+/* Estilos para las celdas de encabezado */
+th {
+    background-color: #333;
+    color: #ffcc00;
+    font-weight: bold;
+}
+
+/* Estilos para las celdas de datos */
+td {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Efecto hover para filas */
+tr:hover td {
+    background-color: rgba(255, 255, 255, 0.2);
+}

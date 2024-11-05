@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plan Protect</title>
+    <link rel="stylesheet" href="styles.css">
+    
+    <!-- Cambiar el color de la barra de navegación en Android -->
+    <meta name="theme-color" content="#4CAF50"> <!-- Cambia a otro color si prefieres -->
+</head>
+<body>
+    <!-- Encabezado y barra de navegación -->
+    <header>
+        <h1>Plan Protect</h1>
+        <nav>
+            <button onclick="irASeccion('inicio')">Inicio</button>
+            <button onclick="abrirVentanaSensores()">Datos de Sensores</button>
+
+        </nav>
+    </header>
+
+    <!-- Secciones -->
+    <main>
+        <section id="inicio" class="seccion visible">
+            <h2>Bienvenido a Plan Protect</h2>
+            <p>Gestiona y cuida tus cultivos con la ayuda de datos en tiempo real.</p>
+        </section>
+
+        <!-- Sección de Datos de Sensores -->
+        <section id="sensores" class="seccion">
+            <h2>Datos de Sensores</h2>
+            <div class="sensor-datos">
+                <p><strong>Humedad del Aire:</strong> -- %</p>
+                <p><strong>Luminosidad:</strong> -- lux</p>
+                <p><strong>Temperatura:</strong> -- °C</p>
+                <p><strong>Humedad del Suelo:</strong> -- %</p>
+            </div>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
+

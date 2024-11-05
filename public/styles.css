@@ -1,0 +1,83 @@
+/* styles.css */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #333;
+
+    /* Imagen de fondo */
+    background-image: url('fondo.jpg'); /* Cambia 'fondo.jpg' por el nombre de tu imagen */
+    background-size: cover; /* Asegura que la imagen cubra toda la pantalla */
+    background-position: center; /* Centra la imagen */
+    background-attachment: fixed; /* Fija la imagen al fondo para un efecto de desplazamiento */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+
+    /* Fondo para la barra de navegación en móviles */
+    background-color: #241e1f;
+}
+
+header {
+    width: 100%;
+    background-color: rgba(218,212,32, 0.8); /* Color de fondo con transparencia */
+    color: #5f760f;
+    padding: 1rem;
+    text-align: center;
+}
+
+nav {
+    margin-top: 1rem;
+}
+
+nav button {
+    background-color: rgba(248,244,151, 0.8); /* Botones con transparencia */
+    color: #5d741c;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 0 5px;
+}
+
+nav button:hover {
+    background-color: rgba(90, 146, 22, 0.8);
+}
+
+main {
+    width: 90%;
+    max-width: 800px;
+    margin-top: 2rem;
+    background-color: rgba(255, 255, 255, 0.9); /* Fondo blanco con transparencia */
+    border-radius: 8px;
+    padding: 1rem;
+}
+
+.seccion {
+    display: none;
+}
+
+.seccion.visible {
+    display: block;
+}
+
+/* Estilos para la sección de datos de sensores */
+.sensor-datos {
+    background-color: rgba(232, 245, 233, 0.9);
+    padding: 1rem;
+    border: 1px solid #c8e6c9;
+    border-radius: 8px;
+    margin-top: 1rem;
+}
+
+.sensor-datos p {
+    font-size: 1.1rem;
+    margin: 0.5rem 0;
+}
+ 
