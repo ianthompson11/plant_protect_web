@@ -17,11 +17,10 @@
             </tr>
         </thead>
         <tbody id="data-table">
-            <tr><td>Distancia</td><td id="porcentaje">0</td></tr>
-            <tr><td>Temperatura</td><td id="temperature">0</td></tr>
-            <tr><td>Humedad</td><td id="humidity">0</td></tr>
-            <tr><td>Luminosidad</td><td id="luminosity">0</td></tr>
-            <tr><td>Humedad Suelo</td><td id="soilHumidity">0</td></tr>
+            <tr><td>Temperatura</td><td id="temperatura">0</td></tr>
+            <tr><td>Humedad</td><td id="humedad">0</td></tr>
+            <tr><td>Luminosidad</td><td id="luminosidad">0</td></tr>
+            <tr><td>Humedad Suelo</td><td id="humedadSuelo">0</td></tr>
         </tbody>
     </table>
 
@@ -32,11 +31,10 @@
         socket.onmessage = function(event) {
             const data = JSON.parse(event.data);
             // Actualizar los valores en la tabla
-            document.getElementById('porcentaje').innerText = data.porcentaje;
-            document.getElementById('temperature').innerText = data.temperatura;
-            document.getElementById('humidity').innerText = data.humedad;
-            document.getElementById('luminosity').innerText = data.luminosidad;
-            document.getElementById('soilHumidity').innerText = data.humedadSuelo;
+            document.getElementById('temperatura').innerText = data.temperatura;
+            document.getElementById('humedad').innerText = data.humedad;
+            document.getElementById('luminosidad').innerText = data.luminosidad;
+            document.getElementById('humedadSuelo').innerText = data.humedadSuelo;
         };
     </script>
 </body>

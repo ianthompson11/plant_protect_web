@@ -1,0 +1,122 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-image: url('sensores.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  background-color: rgba(19, 17, 4, 0.8); /* Fondo oscuro con 80% de opacidad */
+  color: #cace87; /* Texto en un tono claro para contraste */
+  margin: 0;
+  padding: 0;
+}
+
+.contenedor {
+  width: 80%;
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 30px;
+  background-color: rgba(19, 17, 4, 0.9); /* Fondo oscuro con algo de transparencia */
+  border-radius: 10px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2); /* Sombra más suave y transparente */
+  font-size: 18px;
+}
+
+h1 {
+  text-align: center;
+  color: #a2bb42; /* Título en verde brillante para resaltar */
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+select {
+  width: 100%;
+  padding: 12px;
+  margin: 15px 0;
+  border: 1px solid #4a3613; /* Borde oscuro para el select */
+  border-radius: 5px;
+  font-size: 16px;
+  background-color: #4a3613; /* Fondo oscuro para el select */
+  color: #aea290; /* Texto claro dentro del select */
+  transition: all 0.3s ease;
+}
+
+select:hover, select:focus {
+  border-color: #a2bb42; /* Bordes vibrantes al hacer hover */
+  background-color: #7e6b57; /* Cambio de fondo a un color intermedio */
+}
+
+.datos-cultivo {
+  margin-top: 30px;
+  padding: 20px;
+  background-color: rgba(74, 54, 19, 0.9); /* Fondo oscuro con algo de transparencia */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra suave para destacar */
+  font-size: 16px;
+}
+
+.datos-cultivo h2 {
+  color: #a2bb42; /* Verde brillante para los subtítulos */
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+  text-align: center; /* Centrar el título */
+  font-weight: bold;
+}
+
+.datos-cultivo dl {
+  margin: 0;
+  padding: 0;
+}
+
+.datos-cultivo dt {
+  font-size: 1.1rem;
+  color: #a2bb42; /* Resaltar las etiquetas */
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.datos-cultivo dd {
+  font-size: 1rem;
+  color: #cace87; /* Color suave para los valores */
+  margin: 5px 0 15px 0;
+  line-height: 1.6;
+  padding-left: 20px; /* Espacio a la izquierda para el texto */
+}
+
+.datos-cultivo dd::before {
+  content: "» "; /* Añadir un símbolo antes del valor */
+  color: #a2bb42;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.datos-cultivo dt::after {
+  content: ":"; /* Añadir dos puntos después del nombre del dato */
+  color: #a2bb42;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: rgba(162, 187, 66, 0.9); /* Verde brillante con algo de transparencia */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #71911b; /* Cambio a verde más oscuro al hacer hover */
+}
+
+#imagenCultivo {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-top: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  opacity: 0.8; /* 80% opacidad */
+}
+
+
+  

@@ -1,5 +1,4 @@
-/* styles.css */
-
+/* Reset general */
 * {
     margin: 0;
     padding: 0;
@@ -7,77 +6,105 @@
     font-family: Arial, sans-serif;
 }
 
+/* Ajustes para la vista móvil */
 body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    color: #333;
-
-    /* Imagen de fondo */
-    background-image: url('fondo.jpg'); /* Cambia 'fondo.jpg' por el nombre de tu imagen */
-    background-size: cover; /* Asegura que la imagen cubra toda la pantalla */
-    background-position: center; /* Centra la imagen */
-    background-attachment: fixed; /* Fija la imagen al fondo para un efecto de desplazamiento */
-    background-repeat: no-repeat; /* Evita que la imagen se repita */
-
-    /* Fondo para la barra de navegación en móviles */
-    background-color: #241e1f;
+    min-height: 100vh;
+    color: #cace87; /* Texto principal */
+    background-color: #131104; /* Fondo principal */
+    background-image: url('sensores.jpg'); /* Imagen de fondo */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 
+/* Encabezado oscuro */
 header {
     width: 100%;
-    background-color: rgba(218,212,32, 0.8); /* Color de fondo con transparencia */
-    color: #5f760f;
-    padding: 1rem;
+    background-color: rgba(19, 17, 4, 0.9); /* Fondo oscuro con transparencia */
+    color: #cace87; /* Texto encabezado */
     text-align: center;
+    padding: 1.5rem 0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
 }
 
+/* Navegación */
 nav {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
     margin-top: 1rem;
 }
 
 nav button {
-    background-color: rgba(248,244,151, 0.8); /* Botones con transparencia */
-    color: #5d741c;
-    padding: 0.5rem 1rem;
+    background-color: rgba(162, 187, 66, 0.8); /* Fondo botones con transparencia */
+    color: #131104; /* Texto botones */
+    padding: 0.8rem 1rem;
     border: none;
-    border-radius: 5px;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 0.9rem;
     cursor: pointer;
-    margin: 0 5px;
+    transition: all 0.3s ease;
 }
 
 nav button:hover {
-    background-color: rgba(90, 146, 22, 0.8);
+    background-color: rgba(113, 145, 27, 0.8); /* Hover en botones */
+    color: white;
 }
 
+/* Contenido principal */
 main {
     width: 90%;
-    max-width: 800px;
-    margin-top: 2rem;
-    background-color: rgba(255, 255, 255, 0.9); /* Fondo blanco con transparencia */
-    border-radius: 8px;
-    padding: 1rem;
+    max-width: 600px;
+    background-color: rgba(174, 162, 144, 0.85); /* Fondo transparente de contenido */
+    border-radius: 10px;
+    padding: 1.5rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    margin-top: 1rem;
 }
 
-.seccion {
-    display: none;
+section h2 {
+    font-size: 1.5rem;
+    color: rgba(113, 145, 27, 0.9); /* Títulos con transparencia */
+    margin-bottom: 1rem;
 }
 
-.seccion.visible {
-    display: block;
+section p {
+    font-size: 1rem;
+    color: #4a3613; /* Texto de contenido */
+    line-height: 1.6;
 }
 
-/* Estilos para la sección de datos de sensores */
+/* Sección de Datos de Sensores */
 .sensor-datos {
-    background-color: rgba(232, 245, 233, 0.9);
+    background-color: rgba(202, 206, 135, 0.85); /* Fondo sección de datos con transparencia */
     padding: 1rem;
-    border: 1px solid #c8e6c9;
+    border: 1px solid rgba(101, 101, 23, 0.8); /* Borde con transparencia */
     border-radius: 8px;
     margin-top: 1rem;
 }
 
 .sensor-datos p {
     font-size: 1.1rem;
+    color: #4a3613;
     margin: 0.5rem 0;
 }
+
+/* Ajustes generales para móvil */
+@media (max-width: 600px) {
+    nav button {
+        padding: 0.7rem;
+        font-size: 0.85rem;
+    }
+    main {
+        padding: 1rem;
+    }
+}
+
+
+
  

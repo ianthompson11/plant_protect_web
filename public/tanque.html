@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lectura de Nivel de Agua</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      font-family: Arial, sans-serif;
+      background-color: rgba(19, 17, 4); /* Fondo oscuro con 80% de opacidad */
+      text-align: center;
+      background-image: url('sensores.jpg');
+      background-size: cover;
+      background-position: center;
+    }
+
+    .container {
+      background: rgba(255, 255, 255, 0.8);
+      color: #333;
+      padding: 2em;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      max-width: 500px;
+      width: 90%;
+      text-align: center;
+      transition: background-color 0.5s;
+    }
+
+    h1 {
+      font-size: 1.8em;
+      margin-bottom: 0.5em;
+      color: #00796b;
+    }
+
+    .tank {
+      position: relative;
+      width: 200px;
+      height: 250px;
+      background: #f0f0f0;
+      border: 5px solid #333;
+      border-top-width: 10px;
+      border-bottom-width: 5px;
+      margin: 1em auto;
+      overflow: hidden;
+      clip-path: polygon(15% 100%, 85% 100%, 100% 0, 0 0);
+    }
+
+    .water {
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+      background: #4db8ff;
+      transition: height 1s ease;
+    }
+
+    .distance-display {
+      font-size: 1.5em;
+      font-weight: bold;
+      color: #00796b;
+      margin: 1em 0;
+    }
+
+    .last-update {
+      margin-top: 0.5em;
+      font-size: 0.9em;
+      color: #666;
+    }
+
+    .button-container {
+      margin-top: 20px;
+    }
+
+    .level-button {
+      padding: 10px 20px;
+      font-size: 1em;
+      background-color: #00796b;
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      margin: 5px;
+      cursor: pointer;
+    }
+
+    .level-button:hover {
+      background-color: #004d40;
+    }
+
+  </style>
+</head>
+<body>
+
+  <div class="container" id="container">
+    <h1>Nivel de Agua del Tanque</h1>
+    <div class="tank">
+      <div class="water" id="waterLevel" style="height: 0%;"></div>
+    </div>
+    <div class="distance-display" id="level">Nivel: 0%</div>
+    <div class="last-update" id="lastUpdate">Última actualización: --:--:--</div>
+
+  </div>
+
+  <script>
+
+        // Crear una variable global para almacenar el valor de 'distance'
+    let distanceValue = null;
+    let porcentaje = 0;
+
+    // Conectar al WebSocket
+    const socket = new WebSocket('ws://192.168.1.127:3000');
+
+    // Evento cuando se recibe un mensaje del WebSocket
+    socket.onmessage = function(event) {
+        const data = JSON.parse(event.data);  // Parsear el JSON recibido
+        // Guardar el valor de 'distance' en la variable global
+        distanceValue = data.distance;
+        document.getElementById('distance').innerText = distanceValue;
+    };
+
+    setInterval(() => {
+        if (distanceValue !== null) {
+            console.log('Valor de distance: ', distanceValue);
+            // Puedes hacer otros cálculos o acciones con 'distanceValue' aquí
+        }
+    }, 1000);  // Ejecuta cada 1 segundo (1000 ms)
+
+
+
+
+    function getWaterLevelText(height) {
+      if (height === 0) return "Vacío";
+      else if (height === 25) return "Bajo";
+      else if (height === 50) return "Medio";
+      else if (height === 75) return "Casi lleno";
+      else return "Lleno";
+    }
+
+    function updateContainerColor(levelText) {
+      const container = document.getElementById('container');
+      if (levelText === "Vacío") {
+        container.style.backgroundColor = "rgba(255, 0, 0, 0.8)";
+      } else if (levelText === "Lleno") {
+        container.style.backgroundColor = "rgba(0, 255, 0, 0.8)";
+      } else {
+        container.style.backgroundColor = "rgba(255, 255, 255, 0.8)";
+      }
+    }
+
+    function updateDisplay(height) {
+      const levelText = getWaterLevelText(height);
+      document.getElementById("waterLevel").style.height = `${height}%`;
+      document.getElementById("level").innerText = `Nivel: ${height}% - ${levelText}`;
+      updateContainerColor(levelText);
+    }
+
+    function setLevel(height) {
+      updateDisplay(porcentaje);
+    }
+
+    function updateLastUpdateTime() {
+      const now = new Date();
+      document.getElementById("lastUpdate").innerText = `Última actualización: ${now.toLocaleTimeString()}`;
+    }
+
+    function DistanceValue() {
+      if (distanceValue <= 10.66 && distanceValue > 5.00) {
+          porcentaje = 100;
+      } else if (distanceValue <= 17.32 && distanceValue > 10.66) {
+          porcentaje = 75;
+
+      } else if (distanceValue <= 19.55 && distanceValue > 17.32) {
+          porcentaje = 25;
+      } else if (distanceValue <= 24 && distanceValue > 19.55) {
+          porcentaje = 25;
+      } else if (distanceValue <= 30.65 && distanceValue > 24) {
+          porcentaje = 0;
+      }
+   }
+
+    setInterval(DistanceValue, 500);
+    setInterval(setLevel, 1000); // Actualiza la hora cada segundo
+    setInterval(updateLastUpdateTime, 1000);
+    
+
+  </script>
+
+</body>
+</html>
+
+
