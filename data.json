@@ -201383,5 +201383,4149 @@
     "luminosidad": 20,
     "humedadSuelo": 100,
     "contador": 114
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 42,
+    "humedadSuelo": 100,
+    "contador": 177
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 94,
+    "humedadSuelo": 100,
+    "contador": 178
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 63,
+    "humedadSuelo": 100,
+    "contador": 179
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 90,
+    "humedadSuelo": 100,
+    "contador": 180
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 41,
+    "humedadSuelo": 100,
+    "contador": 181
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 182
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 54,
+    "humedadSuelo": 100,
+    "contador": 183
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 100,
+    "humedadSuelo": 100,
+    "contador": 184
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 66,
+    "humedadSuelo": 100,
+    "contador": 185
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 87,
+    "humedadSuelo": 100,
+    "contador": 186
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.8,
+    "humedad": 82,
+    "luminosidad": 23,
+    "humedadSuelo": 100,
+    "contador": 187
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.8,
+    "humedad": 82,
+    "luminosidad": 84,
+    "humedadSuelo": 100,
+    "contador": 188
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 66,
+    "humedadSuelo": 100,
+    "contador": 189
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 81,
+    "humedadSuelo": 100,
+    "contador": 190
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 27,
+    "humedadSuelo": 100,
+    "contador": 191
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 83,
+    "humedadSuelo": 100,
+    "contador": 192
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 50,
+    "humedadSuelo": 100,
+    "contador": 193
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 95,
+    "humedadSuelo": 100,
+    "contador": 194
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 24,
+    "humedadSuelo": 100,
+    "contador": 195
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 100,
+    "humedadSuelo": 100,
+    "contador": 196
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 53,
+    "humedadSuelo": 100,
+    "contador": 197
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 100,
+    "humedadSuelo": 100,
+    "contador": 198
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.8,
+    "humedad": 82,
+    "luminosidad": 63,
+    "humedadSuelo": 100,
+    "contador": 199
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.8,
+    "humedad": 82,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 200
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.8,
+    "humedad": 82,
+    "luminosidad": 42,
+    "humedadSuelo": 100,
+    "contador": 201
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.8,
+    "humedad": 82,
+    "luminosidad": 68,
+    "humedadSuelo": 100,
+    "contador": 202
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 66,
+    "humedadSuelo": 100,
+    "contador": 203
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 100,
+    "humedadSuelo": 100,
+    "contador": 204
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 205
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 93,
+    "humedadSuelo": 100,
+    "contador": 206
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 47,
+    "humedadSuelo": 100,
+    "contador": 207
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 100,
+    "humedadSuelo": 100,
+    "contador": 208
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 66,
+    "humedadSuelo": 100,
+    "contador": 209
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 76,
+    "humedadSuelo": 100,
+    "contador": 210
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 36,
+    "humedadSuelo": 100,
+    "contador": 211
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 212
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 83,
+    "luminosidad": 34,
+    "humedadSuelo": 100,
+    "contador": 213
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 83,
+    "luminosidad": 68,
+    "humedadSuelo": 100,
+    "contador": 214
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 24,
+    "humedadSuelo": 100,
+    "contador": 215
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 69,
+    "humedadSuelo": 100,
+    "contador": 216
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 217
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 100,
+    "humedadSuelo": 100,
+    "contador": 218
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 61,
+    "humedadSuelo": 100,
+    "contador": 219
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 100,
+    "humedadSuelo": 100,
+    "contador": 220
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 54,
+    "humedadSuelo": 100,
+    "contador": 221
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 68,
+    "humedadSuelo": 100,
+    "contador": 222
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 25,
+    "humedadSuelo": 100,
+    "contador": 223
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.7,
+    "humedad": 82,
+    "luminosidad": 100,
+    "humedadSuelo": 100,
+    "contador": 224
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.6,
+    "humedad": 82,
+    "luminosidad": 60,
+    "humedadSuelo": 100,
+    "contador": 0
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.6,
+    "humedad": 82,
+    "luminosidad": 51,
+    "humedadSuelo": 100,
+    "contador": 1
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.6,
+    "humedad": 82,
+    "luminosidad": 49,
+    "humedadSuelo": 100,
+    "contador": 2
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.6,
+    "humedad": 82,
+    "luminosidad": 92,
+    "humedadSuelo": 100,
+    "contador": 3
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.6,
+    "humedad": 82,
+    "luminosidad": 64,
+    "humedadSuelo": 100,
+    "contador": 4
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.6,
+    "humedad": 82,
+    "luminosidad": 93,
+    "humedadSuelo": 100,
+    "contador": 5
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.6,
+    "humedad": 82,
+    "luminosidad": 48,
+    "humedadSuelo": 100,
+    "contador": 6
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.6,
+    "humedad": 82,
+    "luminosidad": 78,
+    "humedadSuelo": 100,
+    "contador": 7
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.7,
+    "humedad": 82,
+    "luminosidad": 21,
+    "humedadSuelo": 84,
+    "contador": 8
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.7,
+    "humedad": 82,
+    "luminosidad": 93,
+    "humedadSuelo": 100,
+    "contador": 9
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.7,
+    "humedad": 82,
+    "luminosidad": 30,
+    "humedadSuelo": 100,
+    "contador": 10
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.7,
+    "humedad": 82,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 11
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.7,
+    "humedad": 82,
+    "luminosidad": 40,
+    "humedadSuelo": 100,
+    "contador": 12
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.7,
+    "humedad": 82,
+    "luminosidad": 79,
+    "humedadSuelo": 100,
+    "contador": 13
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 14
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 59,
+    "humedadSuelo": 100,
+    "contador": 15
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.6,
+    "humedad": 82,
+    "luminosidad": 31,
+    "humedadSuelo": 100,
+    "contador": 16
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.6,
+    "humedad": 82,
+    "luminosidad": 93,
+    "humedadSuelo": 100,
+    "contador": 17
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 56,
+    "humedadSuelo": 100,
+    "contador": 18
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 50,
+    "humedadSuelo": 100,
+    "contador": 19
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.7,
+    "humedad": 82,
+    "luminosidad": 9,
+    "humedadSuelo": 49,
+    "contador": 20
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.7,
+    "humedad": 82,
+    "luminosidad": 87,
+    "humedadSuelo": 100,
+    "contador": 21
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.7,
+    "humedad": 82,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 22
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.7,
+    "humedad": 82,
+    "luminosidad": 87,
+    "humedadSuelo": 100,
+    "contador": 23
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.7,
+    "humedad": 82,
+    "luminosidad": 53,
+    "humedadSuelo": 100,
+    "contador": 24
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.7,
+    "humedad": 82,
+    "luminosidad": 97,
+    "humedadSuelo": 100,
+    "contador": 25
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.7,
+    "humedad": 82,
+    "luminosidad": 46,
+    "humedadSuelo": 100,
+    "contador": 26
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.7,
+    "humedad": 82,
+    "luminosidad": 100,
+    "humedadSuelo": 100,
+    "contador": 27
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.7,
+    "humedad": 82,
+    "luminosidad": 66,
+    "humedadSuelo": 100,
+    "contador": 28
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.7,
+    "humedad": 82,
+    "luminosidad": 100,
+    "humedadSuelo": 100,
+    "contador": 29
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 26,
+    "humedadSuelo": 100,
+    "contador": 30
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 100,
+    "humedadSuelo": 100,
+    "contador": 31
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.7,
+    "humedad": 82,
+    "luminosidad": 60,
+    "humedadSuelo": 100,
+    "contador": 32
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.7,
+    "humedad": 82,
+    "luminosidad": 100,
+    "humedadSuelo": 100,
+    "contador": 33
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.7,
+    "humedad": 82,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 34
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.7,
+    "humedad": 82,
+    "luminosidad": 77,
+    "humedadSuelo": 100,
+    "contador": 35
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 15,
+    "humedadSuelo": 85,
+    "contador": 36
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 53,
+    "humedadSuelo": 100,
+    "contador": 37
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 64,
+    "humedadSuelo": 100,
+    "contador": 38
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 100,
+    "humedadSuelo": 100,
+    "contador": 39
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 63,
+    "humedadSuelo": 100,
+    "contador": 40
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 100,
+    "humedadSuelo": 100,
+    "contador": 41
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.7,
+    "humedad": 82,
+    "luminosidad": 56,
+    "humedadSuelo": 100,
+    "contador": 42
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.7,
+    "humedad": 82,
+    "luminosidad": 59,
+    "humedadSuelo": 100,
+    "contador": 43
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 58,
+    "humedadSuelo": 100,
+    "contador": 44
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 58,
+    "humedadSuelo": 100,
+    "contador": 45
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.7,
+    "humedad": 82,
+    "luminosidad": 10,
+    "humedadSuelo": 66,
+    "contador": 46
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.7,
+    "humedad": 82,
+    "luminosidad": 80,
+    "humedadSuelo": 100,
+    "contador": 47
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.7,
+    "humedad": 82,
+    "luminosidad": 22,
+    "humedadSuelo": 90,
+    "contador": 48
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.7,
+    "humedad": 82,
+    "luminosidad": 58,
+    "humedadSuelo": 100,
+    "contador": 49
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.7,
+    "humedad": 82,
+    "luminosidad": 56,
+    "humedadSuelo": 100,
+    "contador": 50
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.7,
+    "humedad": 82,
+    "luminosidad": 95,
+    "humedadSuelo": 100,
+    "contador": 51
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.7,
+    "humedad": 82,
+    "luminosidad": 12,
+    "humedadSuelo": 67,
+    "contador": 52
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 41,
+    "humedadSuelo": 100,
+    "contador": 53
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 85,
+    "humedadSuelo": 100,
+    "contador": 54
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 60,
+    "humedadSuelo": 100,
+    "contador": 55
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 96,
+    "humedadSuelo": 100,
+    "contador": 56
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 54,
+    "humedadSuelo": 100,
+    "contador": 57
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 55,
+    "humedadSuelo": 100,
+    "contador": 58
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 52,
+    "humedadSuelo": 100,
+    "contador": 59
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 100,
+    "humedadSuelo": 100,
+    "contador": 60
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 15,
+    "humedadSuelo": 82,
+    "contador": 61
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 100,
+    "humedadSuelo": 100,
+    "contador": 62
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 27,
+    "humedadSuelo": 100,
+    "contador": 63
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 70,
+    "humedadSuelo": 100,
+    "contador": 64
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 62,
+    "humedadSuelo": 100,
+    "contador": 65
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 89,
+    "humedadSuelo": 100,
+    "contador": 66
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.8,
+    "humedad": 81,
+    "luminosidad": 63,
+    "humedadSuelo": 100,
+    "contador": 67
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.8,
+    "humedad": 81,
+    "luminosidad": 59,
+    "humedadSuelo": 100,
+    "contador": 68
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 17,
+    "humedadSuelo": 88,
+    "contador": 69
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 100,
+    "humedadSuelo": 100,
+    "contador": 70
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 26.9,
+    "humedad": 82,
+    "luminosidad": 39,
+    "humedadSuelo": 100,
+    "contador": 71
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.9,
+    "humedad": 82,
+    "luminosidad": 100,
+    "humedadSuelo": 100,
+    "contador": 72
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 81,
+    "luminosidad": 32,
+    "humedadSuelo": 100,
+    "contador": 73
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 81,
+    "luminosidad": 100,
+    "humedadSuelo": 100,
+    "contador": 74
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 66,
+    "humedadSuelo": 100,
+    "contador": 75
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 62,
+    "humedadSuelo": 100,
+    "contador": 76
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 18,
+    "humedadSuelo": 92,
+    "contador": 77
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 100,
+    "humedadSuelo": 100,
+    "contador": 78
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 45,
+    "humedadSuelo": 100,
+    "contador": 79
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 100,
+    "humedadSuelo": 100,
+    "contador": 80
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 81,
+    "luminosidad": 59,
+    "humedadSuelo": 100,
+    "contador": 81
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 81,
+    "luminosidad": 58,
+    "humedadSuelo": 100,
+    "contador": 82
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 66,
+    "humedadSuelo": 100,
+    "contador": 83
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 100,
+    "humedadSuelo": 100,
+    "contador": 84
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 18,
+    "humedadSuelo": 84,
+    "contador": 85
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 79,
+    "humedadSuelo": 100,
+    "contador": 86
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 81,
+    "luminosidad": 62,
+    "humedadSuelo": 100,
+    "contador": 87
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 81,
+    "luminosidad": 91,
+    "humedadSuelo": 100,
+    "contador": 88
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 64,
+    "humedadSuelo": 100,
+    "contador": 89
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 64,
+    "humedadSuelo": 100,
+    "contador": 90
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 39,
+    "humedadSuelo": 100,
+    "contador": 91
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 100,
+    "humedadSuelo": 100,
+    "contador": 92
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.7,
+    "humedad": 82,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 93
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.7,
+    "humedad": 82,
+    "luminosidad": 60,
+    "humedadSuelo": 100,
+    "contador": 94
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 81,
+    "luminosidad": 50,
+    "humedadSuelo": 100,
+    "contador": 95
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 81,
+    "luminosidad": 100,
+    "humedadSuelo": 100,
+    "contador": 96
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.9,
+    "humedad": 82,
+    "luminosidad": 63,
+    "humedadSuelo": 100,
+    "contador": 97
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.9,
+    "humedad": 82,
+    "luminosidad": 71,
+    "humedadSuelo": 100,
+    "contador": 98
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 81,
+    "luminosidad": 63,
+    "humedadSuelo": 100,
+    "contador": 99
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 81,
+    "luminosidad": 59,
+    "humedadSuelo": 100,
+    "contador": 100
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.9,
+    "humedad": 81,
+    "luminosidad": 30,
+    "humedadSuelo": 100,
+    "contador": 101
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.9,
+    "humedad": 81,
+    "luminosidad": 100,
+    "humedadSuelo": 100,
+    "contador": 102
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.9,
+    "humedad": 82,
+    "luminosidad": 43,
+    "humedadSuelo": 100,
+    "contador": 103
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.9,
+    "humedad": 82,
+    "luminosidad": 100,
+    "humedadSuelo": 100,
+    "contador": 104
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 81,
+    "luminosidad": 55,
+    "humedadSuelo": 100,
+    "contador": 105
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 81,
+    "luminosidad": 100,
+    "humedadSuelo": 100,
+    "contador": 106
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 81,
+    "luminosidad": 17,
+    "humedadSuelo": 81,
+    "contador": 107
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 81,
+    "luminosidad": 61,
+    "humedadSuelo": 100,
+    "contador": 108
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.9,
+    "humedad": 81,
+    "luminosidad": 64,
+    "humedadSuelo": 100,
+    "contador": 109
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.9,
+    "humedad": 81,
+    "luminosidad": 100,
+    "humedadSuelo": 100,
+    "contador": 110
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.9,
+    "humedad": 82,
+    "luminosidad": 34,
+    "humedadSuelo": 100,
+    "contador": 111
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.9,
+    "humedad": 82,
+    "luminosidad": 91,
+    "humedadSuelo": 100,
+    "contador": 112
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 81,
+    "luminosidad": 62,
+    "humedadSuelo": 100,
+    "contador": 113
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 81,
+    "luminosidad": 100,
+    "humedadSuelo": 100,
+    "contador": 114
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.9,
+    "humedad": 81,
+    "luminosidad": 61,
+    "humedadSuelo": 100,
+    "contador": 115
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.9,
+    "humedad": 81,
+    "luminosidad": 93,
+    "humedadSuelo": 100,
+    "contador": 116
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 66,
+    "humedadSuelo": 100,
+    "contador": 117
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 82,
+    "luminosidad": 100,
+    "humedadSuelo": 100,
+    "contador": 118
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 81,
+    "luminosidad": 18,
+    "humedadSuelo": 89,
+    "contador": 119
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 81,
+    "luminosidad": 60,
+    "humedadSuelo": 100,
+    "contador": 120
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 81,
+    "luminosidad": 57,
+    "humedadSuelo": 100,
+    "contador": 121
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 81,
+    "luminosidad": 100,
+    "humedadSuelo": 100,
+    "contador": 122
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 81,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 123
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 81,
+    "luminosidad": 66,
+    "humedadSuelo": 100,
+    "contador": 124
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 81,
+    "luminosidad": 64,
+    "humedadSuelo": 100,
+    "contador": 125
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 81,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 126
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 81,
+    "luminosidad": 41,
+    "humedadSuelo": 100,
+    "contador": 127
+  },
+  {
+    "distance": 6.1,
+    "temperatura": 26.8,
+    "humedad": 81,
+    "luminosidad": 100,
+    "humedadSuelo": 100,
+    "contador": 128
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27,
+    "humedad": 80,
+    "luminosidad": 56,
+    "humedadSuelo": 100,
+    "contador": 0
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27,
+    "humedad": 81,
+    "luminosidad": 52,
+    "humedadSuelo": 100,
+    "contador": 1
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27,
+    "humedad": 81,
+    "luminosidad": 62,
+    "humedadSuelo": 100,
+    "contador": 2
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 25,
+    "humedadSuelo": 53,
+    "contador": 3
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27,
+    "humedad": 81,
+    "luminosidad": 45,
+    "humedadSuelo": 100,
+    "contador": 4
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27,
+    "humedad": 81,
+    "luminosidad": 63,
+    "humedadSuelo": 100,
+    "contador": 5
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 64,
+    "humedadSuelo": 100,
+    "contador": 6
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27,
+    "humedad": 81,
+    "luminosidad": 35,
+    "humedadSuelo": 100,
+    "contador": 7
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27,
+    "humedad": 80,
+    "luminosidad": 28,
+    "humedadSuelo": 99,
+    "contador": 8
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27,
+    "humedad": 80,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 9
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 81,
+    "luminosidad": 24,
+    "humedadSuelo": 83,
+    "contador": 10
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27,
+    "humedad": 81,
+    "luminosidad": 49,
+    "humedadSuelo": 100,
+    "contador": 11
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27,
+    "humedad": 80,
+    "luminosidad": 32,
+    "humedadSuelo": 89,
+    "contador": 12
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 46,
+    "humedadSuelo": 100,
+    "contador": 13
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27,
+    "humedad": 81,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 14
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 39,
+    "humedadSuelo": 100,
+    "contador": 18
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 66,
+    "humedadSuelo": 100,
+    "contador": 19
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 31,
+    "humedadSuelo": 80,
+    "contador": 20
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27,
+    "humedad": 80,
+    "luminosidad": 52,
+    "humedadSuelo": 100,
+    "contador": 21
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27,
+    "humedad": 80,
+    "luminosidad": 60,
+    "humedadSuelo": 100,
+    "contador": 22
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 52,
+    "humedadSuelo": 100,
+    "contador": 23
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27,
+    "humedad": 80,
+    "luminosidad": 58,
+    "humedadSuelo": 100,
+    "contador": 24
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27,
+    "humedad": 80,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 25
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 64,
+    "humedadSuelo": 100,
+    "contador": 26
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 17,
+    "humedadSuelo": 14,
+    "contador": 27
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 36,
+    "humedadSuelo": 100,
+    "contador": 28
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 24,
+    "humedadSuelo": 36,
+    "contador": 29
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 18,
+    "humedadSuelo": 25,
+    "contador": 30
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 63,
+    "humedadSuelo": 100,
+    "contador": 31
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 19,
+    "humedadSuelo": 4,
+    "contador": 32
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 29,
+    "humedadSuelo": 100,
+    "contador": 33
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 21,
+    "humedadSuelo": 42,
+    "contador": 34
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 35
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 36
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 51,
+    "humedadSuelo": 100,
+    "contador": 37
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 64,
+    "humedadSuelo": 100,
+    "contador": 38
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 53,
+    "humedadSuelo": 100,
+    "contador": 39
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 66,
+    "humedadSuelo": 100,
+    "contador": 40
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 66,
+    "humedadSuelo": 100,
+    "contador": 41
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27,
+    "humedad": 80,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 42
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 43
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 40,
+    "humedadSuelo": 100,
+    "contador": 44
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 23,
+    "humedadSuelo": 48,
+    "contador": 45
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 64,
+    "humedadSuelo": 100,
+    "contador": 46
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 21,
+    "humedadSuelo": 45,
+    "contador": 47
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 36,
+    "humedadSuelo": 100,
+    "contador": 48
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 28,
+    "humedadSuelo": 73,
+    "contador": 49
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 50
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 20,
+    "humedadSuelo": 27,
+    "contador": 51
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 52
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 50,
+    "humedadSuelo": 100,
+    "contador": 53
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 54
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 19,
+    "humedadSuelo": 35,
+    "contador": 55
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 26,
+    "humedadSuelo": 77,
+    "contador": 56
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 66,
+    "humedadSuelo": 100,
+    "contador": 57
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 23,
+    "humedadSuelo": 51,
+    "contador": 58
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 54,
+    "humedadSuelo": 100,
+    "contador": 59
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 60
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 57,
+    "humedadSuelo": 100,
+    "contador": 61
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 62
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 64,
+    "humedadSuelo": 100,
+    "contador": 63
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 64
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 64,
+    "humedadSuelo": 100,
+    "contador": 65
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 66
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 66,
+    "humedadSuelo": 100,
+    "contador": 67
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 63,
+    "humedadSuelo": 100,
+    "contador": 68
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 29,
+    "humedadSuelo": 75,
+    "contador": 74
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 37,
+    "humedadSuelo": 100,
+    "contador": 75
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 66,
+    "humedadSuelo": 100,
+    "contador": 76
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 52,
+    "humedadSuelo": 100,
+    "contador": 87
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 88
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 46,
+    "humedadSuelo": 100,
+    "contador": 89
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 90
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.3,
+    "humedad": 80,
+    "luminosidad": 36,
+    "humedadSuelo": 100,
+    "contador": 91
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 59,
+    "humedadSuelo": 100,
+    "contador": 92
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 36,
+    "humedadSuelo": 100,
+    "contador": 93
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 51,
+    "humedadSuelo": 100,
+    "contador": 94
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 57,
+    "humedadSuelo": 100,
+    "contador": 95
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 96
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 97
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 64,
+    "humedadSuelo": 100,
+    "contador": 98
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 44,
+    "humedadSuelo": 100,
+    "contador": 99
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 25,
+    "humedadSuelo": 64,
+    "contador": 100
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.3,
+    "humedad": 80,
+    "luminosidad": 44,
+    "humedadSuelo": 100,
+    "contador": 101
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 24,
+    "humedadSuelo": 81,
+    "contador": 102
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 56,
+    "humedadSuelo": 100,
+    "contador": 103
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 104
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 64,
+    "humedadSuelo": 100,
+    "contador": 105
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 66,
+    "humedadSuelo": 100,
+    "contador": 106
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.3,
+    "humedad": 80,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 107
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 66,
+    "humedadSuelo": 100,
+    "contador": 108
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 109
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 54,
+    "humedadSuelo": 100,
+    "contador": 110
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.3,
+    "humedad": 80,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 111
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 62,
+    "humedadSuelo": 100,
+    "contador": 112
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 113
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 47,
+    "humedadSuelo": 100,
+    "contador": 114
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 45,
+    "humedadSuelo": 100,
+    "contador": 115
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 60,
+    "humedadSuelo": 100,
+    "contador": 116
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 117
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 64,
+    "humedadSuelo": 100,
+    "contador": 118
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 66,
+    "humedadSuelo": 100,
+    "contador": 119
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 60,
+    "humedadSuelo": 100,
+    "contador": 120
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 54,
+    "humedadSuelo": 100,
+    "contador": 121
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 57,
+    "humedadSuelo": 100,
+    "contador": 122
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 25,
+    "humedadSuelo": 66,
+    "contador": 123
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 47,
+    "humedadSuelo": 100,
+    "contador": 124
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 31,
+    "humedadSuelo": 96,
+    "contador": 125
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.3,
+    "humedad": 80,
+    "luminosidad": 33,
+    "humedadSuelo": 100,
+    "contador": 126
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 54,
+    "humedadSuelo": 100,
+    "contador": 127
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 37,
+    "humedadSuelo": 100,
+    "contador": 128
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 34,
+    "humedadSuelo": 100,
+    "contador": 164
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 79,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 165
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 79,
+    "luminosidad": 62,
+    "humedadSuelo": 100,
+    "contador": 166
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 66,
+    "humedadSuelo": 100,
+    "contador": 167
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 79,
+    "luminosidad": 29,
+    "humedadSuelo": 87,
+    "contador": 168
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.3,
+    "humedad": 80,
+    "luminosidad": 54,
+    "humedadSuelo": 100,
+    "contador": 169
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 40,
+    "humedadSuelo": 100,
+    "contador": 170
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.3,
+    "humedad": 79,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 171
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.3,
+    "humedad": 79,
+    "luminosidad": 62,
+    "humedadSuelo": 100,
+    "contador": 172
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 79,
+    "luminosidad": 59,
+    "humedadSuelo": 100,
+    "contador": 173
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 56,
+    "humedadSuelo": 100,
+    "contador": 174
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.3,
+    "humedad": 80,
+    "luminosidad": 49,
+    "humedadSuelo": 100,
+    "contador": 175
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 79,
+    "luminosidad": 54,
+    "humedadSuelo": 100,
+    "contador": 176
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.3,
+    "humedad": 80,
+    "luminosidad": 62,
+    "humedadSuelo": 100,
+    "contador": 177
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.3,
+    "humedad": 80,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 178
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 66,
+    "humedadSuelo": 100,
+    "contador": 179
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 79,
+    "luminosidad": 28,
+    "humedadSuelo": 79,
+    "contador": 180
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 62,
+    "humedadSuelo": 100,
+    "contador": 181
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 182
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 183
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 68,
+    "humedadSuelo": 100,
+    "contador": 184
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 35,
+    "humedadSuelo": 100,
+    "contador": 185
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.3,
+    "humedad": 80,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 186
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 27,
+    "humedadSuelo": 69,
+    "contador": 187
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 55,
+    "humedadSuelo": 100,
+    "contador": 188
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 42,
+    "humedadSuelo": 100,
+    "contador": 189
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 44,
+    "humedadSuelo": 100,
+    "contador": 190
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 79,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 191
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 58,
+    "humedadSuelo": 100,
+    "contador": 192
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 24,
+    "humedadSuelo": 58,
+    "contador": 193
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 79,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 194
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 79,
+    "luminosidad": 39,
+    "humedadSuelo": 100,
+    "contador": 195
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 79,
+    "luminosidad": 66,
+    "humedadSuelo": 100,
+    "contador": 196
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.3,
+    "humedad": 80,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 197
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 64,
+    "humedadSuelo": 100,
+    "contador": 198
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 34,
+    "humedadSuelo": 100,
+    "contador": 199
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 79,
+    "luminosidad": 59,
+    "humedadSuelo": 100,
+    "contador": 200
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.3,
+    "humedad": 80,
+    "luminosidad": 33,
+    "humedadSuelo": 100,
+    "contador": 201
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 38,
+    "humedadSuelo": 100,
+    "contador": 202
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 25,
+    "humedadSuelo": 66,
+    "contador": 203
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.3,
+    "humedad": 79,
+    "luminosidad": 28,
+    "humedadSuelo": 75,
+    "contador": 204
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 41,
+    "humedadSuelo": 100,
+    "contador": 205
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 79,
+    "luminosidad": 35,
+    "humedadSuelo": 100,
+    "contador": 206
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.3,
+    "humedad": 80,
+    "luminosidad": 24,
+    "humedadSuelo": 63,
+    "contador": 207
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.3,
+    "humedad": 80,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 208
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.3,
+    "humedad": 80,
+    "luminosidad": 32,
+    "humedadSuelo": 100,
+    "contador": 209
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 79,
+    "luminosidad": 64,
+    "humedadSuelo": 100,
+    "contador": 210
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 211
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.3,
+    "humedad": 79,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 212
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 213
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.3,
+    "humedad": 80,
+    "luminosidad": 25,
+    "humedadSuelo": 73,
+    "contador": 214
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.3,
+    "humedad": 80,
+    "luminosidad": 44,
+    "humedadSuelo": 100,
+    "contador": 215
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.3,
+    "humedad": 80,
+    "luminosidad": 53,
+    "humedadSuelo": 100,
+    "contador": 216
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 49,
+    "humedadSuelo": 100,
+    "contador": 217
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 218
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.3,
+    "humedad": 80,
+    "luminosidad": 66,
+    "humedadSuelo": 100,
+    "contador": 219
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 79,
+    "luminosidad": 56,
+    "humedadSuelo": 100,
+    "contador": 220
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.3,
+    "humedad": 80,
+    "luminosidad": 33,
+    "humedadSuelo": 100,
+    "contador": 221
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 79,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 222
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 61,
+    "humedadSuelo": 100,
+    "contador": 223
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 33,
+    "humedadSuelo": 100,
+    "contador": 224
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 64,
+    "humedadSuelo": 100,
+    "contador": 225
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.3,
+    "humedad": 80,
+    "luminosidad": 28,
+    "humedadSuelo": 86,
+    "contador": 226
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.3,
+    "humedad": 80,
+    "luminosidad": 26,
+    "humedadSuelo": 71,
+    "contador": 227
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 25,
+    "humedadSuelo": 65,
+    "contador": 228
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.3,
+    "humedad": 79,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 229
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 79,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 230
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 28,
+    "humedadSuelo": 91,
+    "contador": 231
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.3,
+    "humedad": 79,
+    "luminosidad": 66,
+    "humedadSuelo": 100,
+    "contador": 232
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 52,
+    "humedadSuelo": 100,
+    "contador": 243
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 54,
+    "humedadSuelo": 100,
+    "contador": 244
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 68,
+    "humedadSuelo": 100,
+    "contador": 245
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 42,
+    "humedadSuelo": 100,
+    "contador": 294
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 48,
+    "humedadSuelo": 100,
+    "contador": 295
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 296
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 297
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.3,
+    "humedad": 80,
+    "luminosidad": 42,
+    "humedadSuelo": 100,
+    "contador": 298
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 299
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 38,
+    "humedadSuelo": 100,
+    "contador": 300
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 45,
+    "humedadSuelo": 100,
+    "contador": 301
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 68,
+    "humedadSuelo": 100,
+    "contador": 302
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 64,
+    "humedadSuelo": 100,
+    "contador": 303
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 64,
+    "humedadSuelo": 100,
+    "contador": 304
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 43,
+    "humedadSuelo": 100,
+    "contador": 305
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 50,
+    "humedadSuelo": 100,
+    "contador": 306
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 307
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 59,
+    "humedadSuelo": 100,
+    "contador": 308
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 47,
+    "humedadSuelo": 100,
+    "contador": 309
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 310
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 63,
+    "humedadSuelo": 100,
+    "contador": 311
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 312
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.3,
+    "humedad": 80,
+    "luminosidad": 68,
+    "humedadSuelo": 100,
+    "contador": 313
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 63,
+    "humedadSuelo": 100,
+    "contador": 314
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 18,
+    "humedadSuelo": 29,
+    "contador": 315
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 19,
+    "humedadSuelo": 42,
+    "contador": 316
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 17,
+    "humedadSuelo": 12,
+    "contador": 317
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 66,
+    "humedadSuelo": 100,
+    "contador": 318
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 39,
+    "humedadSuelo": 100,
+    "contador": 319
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 28,
+    "humedadSuelo": 98,
+    "contador": 320
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 68,
+    "humedadSuelo": 100,
+    "contador": 321
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 52,
+    "humedadSuelo": 100,
+    "contador": 322
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 23,
+    "humedadSuelo": 74,
+    "contador": 323
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 41,
+    "humedadSuelo": 100,
+    "contador": 324
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 23,
+    "humedadSuelo": 76,
+    "contador": 325
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 68,
+    "humedadSuelo": 100,
+    "contador": 326
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 64,
+    "humedadSuelo": 100,
+    "contador": 327
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 40,
+    "humedadSuelo": 100,
+    "contador": 328
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 47,
+    "humedadSuelo": 100,
+    "contador": 329
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 330
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 31,
+    "humedadSuelo": 100,
+    "contador": 331
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 56,
+    "humedadSuelo": 100,
+    "contador": 332
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 333
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 30,
+    "humedadSuelo": 100,
+    "contador": 334
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 21,
+    "humedadSuelo": 30,
+    "contador": 335
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 35,
+    "humedadSuelo": 100,
+    "contador": 336
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 61,
+    "humedadSuelo": 100,
+    "contador": 337
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 39,
+    "humedadSuelo": 100,
+    "contador": 338
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 58,
+    "humedadSuelo": 100,
+    "contador": 339
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 56,
+    "humedadSuelo": 100,
+    "contador": 340
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 68,
+    "humedadSuelo": 100,
+    "contador": 341
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 59,
+    "humedadSuelo": 100,
+    "contador": 342
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 29,
+    "humedadSuelo": 100,
+    "contador": 343
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 64,
+    "humedadSuelo": 100,
+    "contador": 344
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 36,
+    "humedadSuelo": 100,
+    "contador": 345
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 348
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 26,
+    "humedadSuelo": 75,
+    "contador": 351
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 64,
+    "humedadSuelo": 100,
+    "contador": 352
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 23,
+    "humedadSuelo": 37,
+    "contador": 353
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 66,
+    "humedadSuelo": 100,
+    "contador": 357
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.3,
+    "humedad": 80,
+    "luminosidad": 31,
+    "humedadSuelo": 100,
+    "contador": 358
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 21,
+    "humedadSuelo": 25,
+    "contador": 359
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 34,
+    "humedadSuelo": 100,
+    "contador": 360
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 361
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 26,
+    "humedadSuelo": 56,
+    "contador": 362
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 26,
+    "humedadSuelo": 79,
+    "contador": 363
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 27,
+    "humedadSuelo": 68,
+    "contador": 364
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 32,
+    "humedadSuelo": 89,
+    "contador": 365
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 35,
+    "humedadSuelo": 100,
+    "contador": 366
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 63,
+    "humedadSuelo": 100,
+    "contador": 367
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 66,
+    "humedadSuelo": 100,
+    "contador": 368
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 48,
+    "humedadSuelo": 100,
+    "contador": 369
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 64,
+    "humedadSuelo": 100,
+    "contador": 370
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 50,
+    "humedadSuelo": 100,
+    "contador": 371
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 41,
+    "humedadSuelo": 100,
+    "contador": 372
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 50,
+    "humedadSuelo": 100,
+    "contador": 373
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 43,
+    "humedadSuelo": 100,
+    "contador": 374
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 64,
+    "humedadSuelo": 100,
+    "contador": 375
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 62,
+    "humedadSuelo": 100,
+    "contador": 376
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 60,
+    "humedadSuelo": 100,
+    "contador": 377
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 60,
+    "humedadSuelo": 100,
+    "contador": 378
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.3,
+    "humedad": 80,
+    "luminosidad": 64,
+    "humedadSuelo": 100,
+    "contador": 379
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 380
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 66,
+    "humedadSuelo": 100,
+    "contador": 381
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 63,
+    "humedadSuelo": 100,
+    "contador": 382
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 383
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 33,
+    "humedadSuelo": 100,
+    "contador": 384
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 57,
+    "humedadSuelo": 100,
+    "contador": 385
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 57,
+    "humedadSuelo": 100,
+    "contador": 386
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 63,
+    "humedadSuelo": 100,
+    "contador": 387
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 59,
+    "humedadSuelo": 100,
+    "contador": 388
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 66,
+    "humedadSuelo": 100,
+    "contador": 389
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 68,
+    "humedadSuelo": 100,
+    "contador": 390
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 31,
+    "humedadSuelo": 89,
+    "contador": 391
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 41,
+    "humedadSuelo": 100,
+    "contador": 392
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 393
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 53,
+    "humedadSuelo": 100,
+    "contador": 394
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 24,
+    "humedadSuelo": 60,
+    "contador": 395
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 53,
+    "humedadSuelo": 100,
+    "contador": 396
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 64,
+    "humedadSuelo": 100,
+    "contador": 397
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 398
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 49,
+    "humedadSuelo": 100,
+    "contador": 399
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 400
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 46,
+    "humedadSuelo": 100,
+    "contador": 401
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 60,
+    "humedadSuelo": 100,
+    "contador": 402
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 52,
+    "humedadSuelo": 100,
+    "contador": 403
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 24,
+    "humedadSuelo": 57,
+    "contador": 404
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 66,
+    "humedadSuelo": 100,
+    "contador": 407
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 408
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 56,
+    "humedadSuelo": 100,
+    "contador": 409
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 37,
+    "humedadSuelo": 100,
+    "contador": 410
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 32,
+    "humedadSuelo": 88,
+    "contador": 411
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 40,
+    "humedadSuelo": 100,
+    "contador": 412
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 63,
+    "humedadSuelo": 100,
+    "contador": 413
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 68,
+    "humedadSuelo": 100,
+    "contador": 414
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 415
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 416
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 36,
+    "humedadSuelo": 100,
+    "contador": 417
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 60,
+    "humedadSuelo": 100,
+    "contador": 418
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 51,
+    "humedadSuelo": 100,
+    "contador": 419
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 66,
+    "humedadSuelo": 100,
+    "contador": 420
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 40,
+    "humedadSuelo": 100,
+    "contador": 421
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 37,
+    "humedadSuelo": 100,
+    "contador": 437
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 68,
+    "humedadSuelo": 100,
+    "contador": 438
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 63,
+    "humedadSuelo": 100,
+    "contador": 439
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 47,
+    "humedadSuelo": 100,
+    "contador": 440
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 23,
+    "humedadSuelo": 45,
+    "contador": 441
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 34,
+    "humedadSuelo": 100,
+    "contador": 442
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 443
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 27,
+    "humedadSuelo": 61,
+    "contador": 444
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 66,
+    "humedadSuelo": 100,
+    "contador": 456
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 55,
+    "humedadSuelo": 100,
+    "contador": 457
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 35,
+    "humedadSuelo": 100,
+    "contador": 458
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 64,
+    "humedadSuelo": 100,
+    "contador": 459
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 460
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 22,
+    "humedadSuelo": 37,
+    "contador": 11
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 66,
+    "humedadSuelo": 100,
+    "contador": 12
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 51,
+    "humedadSuelo": 100,
+    "contador": 13
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 66,
+    "humedadSuelo": 100,
+    "contador": 14
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 15
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 16
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 65,
+    "humedadSuelo": 100,
+    "contador": 17
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 68,
+    "humedadSuelo": 100,
+    "contador": 18
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 52,
+    "humedadSuelo": 100,
+    "contador": 19
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 18,
+    "humedadSuelo": 0,
+    "contador": 20
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 21
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 45,
+    "humedadSuelo": 100,
+    "contador": 22
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 50,
+    "humedadSuelo": 100,
+    "contador": 23
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 26,
+    "humedadSuelo": 34,
+    "contador": 24
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 47,
+    "humedadSuelo": 100,
+    "contador": 25
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 55,
+    "humedadSuelo": 100,
+    "contador": 26
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 21,
+    "humedadSuelo": 41,
+    "contador": 27
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 17,
+    "humedadSuelo": 0,
+    "contador": 28
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 68,
+    "humedadSuelo": 100,
+    "contador": 29
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 30
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 31
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 61,
+    "humedadSuelo": 100,
+    "contador": 32
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 67,
+    "humedadSuelo": 100,
+    "contador": 33
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 17,
+    "humedadSuelo": 0,
+    "contador": 34
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.2,
+    "humedad": 80,
+    "luminosidad": 18,
+    "humedadSuelo": 0,
+    "contador": 35
+  },
+  {
+    "distance": 5.55,
+    "temperatura": 27.1,
+    "humedad": 80,
+    "luminosidad": 68,
+    "humedadSuelo": 100,
+    "contador": 36
   }
 ]

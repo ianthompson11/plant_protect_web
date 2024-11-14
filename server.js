@@ -43,12 +43,46 @@ app.post('/data', (req, res) => {
         }
     }
 
+    
     // Agrega el nuevo dato al array
-    jsonData.push(lastData);
+        jsonData.push(lastData);
 
-    // Escribe el array actualizado en el archivo JSON
-    fs.writeFileSync(dataFilePath, JSON.stringify(jsonData, null, 2), 'utf8');
-    console.log("Datos guardados en data.json");
+        // Función para guardar los datos en JSON y en la base de datos
+    async function guardarDatos(datos) {
+        // Insertar en la base de datos con los nombres correctos
+        const query = `
+            INSERT INTO datos_recibidos (distance, temperatura, humedad, luminosidad, humedad_suelo, contador)
+            VALUES ($1, $2, $3, $4, $5, $6)
+        `;
+        const valores = [
+            datos.distance,         // Mapea correctamente el campo distance
+            datos.temperatura,      // Mapea correctamente el campo temperatura
+            datos.humedad,          // Mapea correctamente el campo humedad
+            datos.luminosidad,      // Mapea correctamente el campo luminosidad
+            datos.humedadSuelo,     // Mapea correctamente el campo humedadSuelo (con "S" mayúscula)
+            datos.contador          // Mapea correctamente el campo contador
+        ];
+
+        // Verifica los valores antes de ejecutarlos
+        console.log('Valores a insertar:', valores);
+        console.log(datos.distance);
+
+        try {
+            await pool.query(query, valores);
+            console.log('Datos guardados en la base de datos');
+        } catch (error) {
+            console.error('Error al guardar en la base de datos:', error);
+        }
+    }
+
+
+    //console.log(lastData);
+
+
+
+
+    // Llamada a la función para guardar en ambos lugares
+    guardarDatos(lastData);
 
     // Enviar los datos a todos los clientes conectados por WebSocket
     wss.clients.forEach(client => {
